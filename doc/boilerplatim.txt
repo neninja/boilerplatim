@@ -1,0 +1,9 @@
+*boilerplatim.txt* *boilerplatim*
+A boilerplatim
+
+COMMANDS
+
+*:Boilerplatim*
+Boilerplatim boilerplatim
+
+vim:tw=78:et:ft=help:norl:
