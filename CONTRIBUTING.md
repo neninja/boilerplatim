@@ -7,6 +7,8 @@
 
 ### Teste
 
+Testes utilizando [plenary](https://github.com/nvim-lua/plenary.nvim)
+
 ```sh
 nvim --headless -c 'PlenaryBustedDirectory tests'
 ```
